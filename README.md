@@ -25,3 +25,6 @@
 > - [ ] RoadMap Python
 > - [ ] Studies suggestion Python (more than one post)
 > - [ ] Studies suggestion English (more than one post)
+
+
+esta linea se modifico
